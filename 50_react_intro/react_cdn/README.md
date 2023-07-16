@@ -1,0 +1,3 @@
+- cd `50_react_intro/react_cdn`
+- `npx create-react-app my-app`
+- `npx create-react-app .`
