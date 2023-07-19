@@ -10,3 +10,7 @@
   - ES modules import export
   - Function and Class Components
   - State
+- 52_react_props_and_state:
+  - Rendering Class Components
+  - State and Props
+  - Styles
