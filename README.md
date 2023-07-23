@@ -14,3 +14,10 @@
   - Rendering Class Components
   - State and Props
   - Styles
+- 53_React_lifecycle_methods
+  - constructor()
+  - render()
+  - componentDidMount()
+  - shouldComponentUpdate()
+  - componentDidUpdate()
+  - componentWillUnmount()
